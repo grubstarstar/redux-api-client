@@ -1,0 +1,17 @@
+{
+  "name": "@grubstarstar/redux-api-client",
+  "version": "0.1.1",
+  "description": "A wrapper around 'fetch' for consistent api calls, including auth and default error handling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "api",
+    "http",
+    "fetch"
+  ],
+  "author": "Richard Garner <rich@richgarner.net>",
+  "license": "ISC"
+}
