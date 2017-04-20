@@ -13,5 +13,8 @@
     "fetch"
   ],
   "author": "Richard Garner <rich@richgarner.net>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "qs": "^6.4.0"
+  }
 }
